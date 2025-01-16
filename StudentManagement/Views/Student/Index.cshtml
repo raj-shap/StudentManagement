@@ -1,0 +1,48 @@
+﻿@model IEnumerable<StudentManagement.Models.Student>
+
+<a class="btn btn-primary" asp-action="AddStudent" asp-controller="Student">Add Student</a>
+<br />
+<br />
+
+<div class="card">
+	<div class="card-header">
+		<h3 class="card-title">Students</h3>
+	</div>
+	<div class="card-body">
+		<div class="row">
+			<div class="col-md-12">
+				<table class="table table-striped">
+					<thead>
+						<tr>
+							<th>Id</th>
+							<th>Name</th>
+							<th>Email</th>
+							<th>Edit</th>
+							<th>View</th>
+							<th>Delete</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var item in Model)
+						{
+							<tr>
+								<td>@item.Id</td>
+								<td>@item.Name</td>
+								<td>@item.Email</td>
+								<td>
+									<a class="btn btn-primary" asp-controller="Student" asp-action="UpdateStudent" asp-route-id="@item.Id">Edit </a>
+								</td>
+								<td>
+									<a class="btn btn-warning" asp-controller="Student" asp-action="GetStudentById" asp-route-id="@item.Id">View</a>
+								</td>
+								<td>
+									<a class="btn btn-danger" asp-controller="Student" asp-action="DeleteStudent" asp-route-id="@item.Id">Delete</a>
+								</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>

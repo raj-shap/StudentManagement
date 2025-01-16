@@ -1,0 +1,80 @@
+﻿@model StudentManagement.Models.StudentViewModel
+
+<div class="card">
+	<div class="card-header">
+		<h3 class="card-title">Add Student</h3>
+	</div>
+	<div class="card-body">
+		<div class="row">
+			<div class="col-md-4">
+				<form method="post" enctype="multipart/form-data">
+					<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+					<div class="form-group">
+						<label class="control-label" asp-for="Name"></label>
+						<input asp-for="Name" class="form-control" />
+						<span asp-validation-for="Name" class="text-danger"></span>
+					</div>
+					<br />
+					<div class="form-group">
+						<label class="control-label" asp-for="Email"></label>
+						<input asp-for="Email" class="form-control" />
+						<span asp-validation-for="Email" class="text-danger"></span>
+					</div>
+					<br />
+
+					<div class="form-group">
+						<label class="control-label" asp-for="Standard"></label>
+						<input asp-for="Standard" type="number" class="form-control" />
+						<span asp-validation-for="Standard" class="text-danger"></span>
+					</div>
+					<br />
+
+					<div class="form-group">
+						<label class="control-label" asp-for="Address"></label>
+
+						<input id="AddressLine1" placeholder="Line 1" class="form-control" />
+						<br />
+						<input id="AddressLine2" placeholder="Line 2" class="form-control" />
+						<br />
+						<input id="AddressLine3" placeholder="Line 3" class="form-control" />
+
+						<input type="hidden" asp-for="Address" id="Address" class="form-control" />
+						<span asp-validation-for="Address" class="text-danger"></span>
+					</div>
+					<br />
+					<div class="form-group">
+						<label class="control-label" asp-for="Photo"></label>
+						<br />
+						<input type="file" asp-for="Photo" class="form-controller" />
+						<span asp-validation-for="Photo" class="text-danger"></span>
+					</div>
+					<br />
+					<div class="form-group">
+						<input type="submit" value="Submit" class="btn btn-primary" />
+						<a asp-action="Index" asp-controller="Student" class="btn btn-secondary">Back to Home</a>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script>
+
+		$("form").submit((e) => {
+
+			var addressLine1 = $("#AddressLine1").val();
+			var addressLine2 = $("#AddressLine2").val();
+			var addressLine3 = $("#AddressLine3").val();
+
+			if(addressLine1.includes(",") || addressLine2.includes(",") || addressLine3.includes(",")){
+				e.preventDefault();
+				alert("Please remove comma (,) from address");
+			}
+			else{
+				var address = addressLine1 + ", " + addressLine2 + ", " + addressLine3;
+				$("#Address").val(address);
+			}
+		});
+</script>

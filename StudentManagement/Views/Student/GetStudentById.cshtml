@@ -1,0 +1,33 @@
+﻿@model StudentManagement.Models.Student
+
+<div class="card">
+	<div class="card-header">
+		<h3 class="card-title">Student</h3>
+	</div>
+	<div class="card-body">
+		<div class="row">
+			<dl class="row">
+
+				<dt class="col-sm-2">ID</dt>
+				<dd class="col-sm-10">@Model.Id</dd>
+
+				<dt class="col-sm-2">Name</dt>
+				<dd class="col-sm-10">@Model.Name</dd>
+
+				<dt class="col-sm-2">Email</dt>
+				<dd class="col-sm-10">@Model.Email</dd>
+
+				<dt class="col-sm-2">Standard</dt>
+				<dd class="col-sm-10">@Model.Standard</dd>
+
+				<dt class="col-sm-2">Address</dt>
+				<dd class="col-sm-10">@Model.Address</dd>
+
+			</dl>
+
+			<form method="post" asp-action="DeleteStudent">
+				<a asp-action="Index" asp-controller="Student" class="btn btn-secondary">Back To Home</a>
+			</form>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,75 @@
+﻿@model List<StudentManagement.Models.Student>
+
+
+<br />
+<br />
+
+<div class="card">
+	<div class="card-header">
+		<h3 class="card-title">Students List</h3>
+	</div>
+	<div class="card-body">
+		<div class="row">
+			<div class="col-md-12">
+				<table class="table table-striped">
+					<thead>
+						<tr>
+							<th>Studet Id</th>
+							<th>Student Name</th>
+							<th>Add Marks</th>
+							<th>Edit</th>
+							<th>Delete</th>
+							@if (ViewBag.Subjects != null)
+							{
+								@foreach (var subject in ViewBag.Subjects as List<StudentManagement.Models.Subject>)
+								{
+									<th>@subject.SubjectName</th>
+								}
+
+							}
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var item in Model)
+						{
+							<tr>
+								<td>@item.Id</td>
+								<td>
+									<a class="btn" asp-controller="Marks" asp-action="AddMarks" asp-route-id="@item.Id">@item.Name</a>
+								</td>
+								<td>
+									<a class="btn btn-primary" asp-controller="Marks" asp-action="AddMarks" asp-route-id="@item.Id">Add</a>
+								</td>
+								<td>
+									<a class="btn btn-warning" asp-controller="Marks" asp-action="EditMarks" asp-route-id="@item.Id">Edit</a>
+								</td>
+								<td>
+									<a class="btn btn-danger" asp-controller="Marks" asp-action="DeleteMarks" asp-route-id="@item.Id">Delete</a>
+								</td>
+								
+									@if (ViewBag.Subjects != null)
+									{
+										@foreach (var subject in ViewBag.Subjects as List<StudentManagement.Models.Subject>)
+										{
+											var mark = item.Marks.FirstOrDefault(m => !m.IsDeleted && m.SubjectId == subject.Id );
+											<td class="text-center">
+												@if(mark != null){
+													@mark.Mark.ToString()
+													;
+												}
+												else{
+													@* <span>Not Added</span> *@
+												<a class="btn btn-primary" asp-controller="Marks" asp-action="AddMarksBySubject" asp-route-studentId="@item.Id" asp-route-subjectId="@subject.Id">Add</a>
+												}
+											</td>
+										}
+									}
+								
+							</tr>
+						}
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>

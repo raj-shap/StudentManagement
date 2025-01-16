@@ -1,0 +1,44 @@
+﻿@model StudentManagement.Models.MarksViewModel
+
+<div class="card">
+	<div class="card-header">
+		<h3 class="card-title">Add Marks</h3>
+	</div>
+	<div class="card-body">
+		<div class="row">
+			<div class="col-md-4">
+				<form asp-action="AddMarks" method="post">
+					<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+					<div class="form-group">
+						<label asp-for="StudentId" class="control-label"></label>
+						<input asp-for="StudentId" class="form-control" />
+						<span asp-validation-for="StudentId" class="text-danger"></span>
+					</div>
+					<br />
+					<div class="form-group">
+						@* <label asp-for="SubjectId" class="control-label"></label> *@
+						<label class="control-label">Subject</label>
+							<input asp-for="SubjectId" type="hidden" class="form-control" readonly />
+						@foreach (var subjects in Model.Subjects)
+						{
+							<input placeholder="@subjects.Text" class="form-control" readonly />
+						}
+						<span asp-validation-for="StudentId" class="text-danger"></span>
+					</div>
+					<br />
+					<div class="form-group">
+						<label asp-for="Mark" class="control-label"></label>
+						<input type="number" min="0" max="100" asp-for="Mark" class="form-control" />
+						<span asp-validation-for="Mark" class="text-danger"></span>
+					</div>
+					<br />
+					<div class="form-group">
+
+						<input type="submit" value="Submit" class="btn btn-primary" />
+						<a asp-action="Index" asp-controller="Marks" class="btn btn-secondary">Back To Marks List</a>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>

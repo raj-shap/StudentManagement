@@ -1,0 +1,99 @@
+﻿@model StudentManagement.Models.StudentViewModel
+
+<div class="card">
+	<div class="card-header">
+		<h3 class="card-title">Update Student</h3>
+	</div>
+	<div class="card-body">
+		<div class="row">
+			<div class="col-md-4">
+				<form method="post" asp-action="UpdateStudent" enctype="multipart/form-data">
+					<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+					<div class="form-group">
+						<label asp-for="Id" class="control-label"></label>
+						<input asp-for="Id" class="form-control" readonly />
+						<span asp-validation-for="Id" class="text-danger"></span>
+					</div>
+					<br />
+					<div class="form-group">
+						<label asp-for="Name" class="control-label"></label>
+						<input asp-for="Name" class="form-control" />
+						<span asp-validation-for="Name" class="text-danger"></span>
+					</div>
+					<br />
+					<div class="form-group">
+						<label asp-for="Email" class="control-label"></label>
+						<input asp-for="Email" class="form-control" />
+						<span asp-validation-for="Email" class="text-danger"></span>
+					</div>
+					<br />
+					<div class="form-group">
+						<label asp-for="Standard" class="control-label"></label>
+						<input asp-for="Standard" class="form-control" />
+						<span asp-validation-for="Standard" class="text-danger"></span>
+					</div>
+					<br />
+					<div class="form-group">
+						<label asp-for="Address" class="control-label"></label>
+						
+						<input id="AddressLine1" class="form-control" placeholder="Line 1" />
+						<br />
+						<input id="AddressLine2" class="form-control" placeholder="Line 2" />
+						<br />
+						<input id="AddressLine3" class="form-control" placeholder="Line 3" />
+
+						<input type="hidden" id="Address" asp-for="Address" class="form-control" />
+						<span asp-validation-for="Address" class="text-danger"></span>
+					</div>
+					<br />
+					<div class="form-group">
+						<label asp-for="Photo" class="control-lable"></label>
+						<img src="~/@Model.Path" class="img-thumbnail"  width="150" height="150">
+						<br />
+						<input type="file" name="Photo" id="Photo" class="form-controller" />
+						<span asp-validation-for="Photo" class="text-danger"></span>
+					</div>
+					<br />
+					<div class="form-group">
+						<input type="submit" value="Update" class="btn btn-primary" />
+						<a asp-action="Index" asp-controller="Student" class="btn btn-secondary">Back To Home</a>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script>
+	$(document).ready(()=>{
+		var address = "@Model.Address";
+
+		var addressSplit = address.split(",");
+
+		if(addressSplit.length>0){
+			$("#AddressLine1").val(addressSplit[0].trim());
+		}
+		if(addressSplit.length>1){
+            $("#AddressLine2").val(addressSplit[0].trim());
+        }
+		if(addressSplit.length>2){
+			$("#AddressLine3").val(addressSplit[2].trim());
+		}
+	});
+
+	$("form").submit((e)=>{
+		var addressLine1 = $("#AddressLine1").val().trim();
+		var addressLine2 = $("#AddressLine2").val().trim();
+		var addressLine3 = $("#AddressLine3").val().trim();
+
+		if(addressLine1.includes(",") || addressLine2.includes(",") || addressLine3.includes(",")){
+        	e.preventDefault();
+			alert("");
+		}
+		else{
+			var address = addressLine1 + ", " + addressLine2 + ", " + addressLine3;
+			$("#Address").val(address);
+		}
+	});
+</script>
