@@ -1,12 +1,12 @@
-﻿@model List<StudentManagement.Models.Student>
+﻿@model IEnumerable<StudentManagement.Models.StudentSubjectMarks>
 
-
+<a class="btn btn-primary" asp-controller="Marks" asp-action="AddMarks">Add Mark</a>
 <br />
 <br />
 
 <div class="card">
 	<div class="card-header">
-		<h3 class="card-title">Students List</h3>
+		<h3 class="card-title">Marks List</h3>
 	</div>
 	<div class="card-body">
 		<div class="row">
@@ -14,57 +14,26 @@
 				<table class="table table-striped">
 					<thead>
 						<tr>
-							<th>Studet Id</th>
 							<th>Student Name</th>
-							<th>Add Marks</th>
-							<th>Edit</th>
-							<th>Delete</th>
-							@if (ViewBag.Subjects != null)
-							{
-								@foreach (var subject in ViewBag.Subjects as List<StudentManagement.Models.Subject>)
-								{
-									<th>@subject.SubjectName</th>
-								}
-
-							}
+							<th class="text-center">Subject Name</th>
+							<th class="text-center">Marks</th>
+							<th class="text-center">Edit</th>
+							<th class="text-center">Delete</th>
 						</tr>
 					</thead>
 					<tbody>
 						@foreach (var item in Model)
 						{
 							<tr>
-								<td>@item.Id</td>
-								<td>
-									<a class="btn" asp-controller="Marks" asp-action="AddMarks" asp-route-id="@item.Id">@item.Name</a>
+								<td>@item.Name</td>								
+								<td class="text-center">@item.SubjectName</td>
+								<td class="text-center">@item.Mark</td>	
+								<td class="text-center">
+									<a class="btn btn-warning" asp-controller="Marks" asp-action="EditMarksBySubj" asp-route-StudentId="@item.StudentId" asp-route-SubjectId="@item.SubjectId">Edit</a>
 								</td>
-								<td>
-									<a class="btn btn-primary" asp-controller="Marks" asp-action="AddMarks" asp-route-id="@item.Id">Add</a>
+								<td class="text-center">
+									<a class="btn btn-danger" asp-controller="Marks" asp-action="DeleteMarksBySubj" asp-route-StudentId="@item.StudentId" asp-route-SubjectId="@item.SubjectId">Delete</a>
 								</td>
-								<td>
-									<a class="btn btn-warning" asp-controller="Marks" asp-action="EditMarks" asp-route-id="@item.Id">Edit</a>
-								</td>
-								<td>
-									<a class="btn btn-danger" asp-controller="Marks" asp-action="DeleteMarks" asp-route-id="@item.Id">Delete</a>
-								</td>
-								
-									@if (ViewBag.Subjects != null)
-									{
-										@foreach (var subject in ViewBag.Subjects as List<StudentManagement.Models.Subject>)
-										{
-											var mark = item.Marks.FirstOrDefault(m => !m.IsDeleted && m.SubjectId == subject.Id );
-											<td class="text-center">
-												@if(mark != null){
-													@mark.Mark.ToString()
-													;
-												}
-												else{
-													@* <span>Not Added</span> *@
-												<a class="btn btn-primary" asp-controller="Marks" asp-action="AddMarksBySubject" asp-route-studentId="@item.Id" asp-route-subjectId="@subject.Id">Add</a>
-												}
-											</td>
-										}
-									}
-								
 							</tr>
 						}
 					</tbody>

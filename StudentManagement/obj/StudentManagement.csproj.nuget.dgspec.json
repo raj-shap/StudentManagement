@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {}
+    "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {
+    "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
         "projectName": "StudentManagement",
-        "projectPath": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
-        "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Yash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

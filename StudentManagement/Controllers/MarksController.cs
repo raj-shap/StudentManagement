@@ -15,39 +15,89 @@ namespace StudentManagement.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            var students = await _context.Students.Where(s => !s.IsDeleted).Include(s => s.Marks).ThenInclude(m => m.Subject).ToListAsync();
+            //var marksList = _context.Students.FromSqlRaw<Student>("GetStudentSubjectMarks").ToList();
+            var marksList = await _context.StudentSubjectMarks.FromSqlRaw<StudentSubjectMarks>("GetStudentSubjectMarks").ToListAsync();
+            Console.WriteLine($"\n\n\n\n{marksList}\n\n\n\n");
+            return View(marksList);
 
-            var subjects = await _context.Subjects.Where(s => !s.IsDeleted).ToListAsync();
-            ViewBag.Subjects = subjects;
+            {
+                //var students = await _context.Students.Where(s => !s.IsDeleted).Include(s => s.Marks).ThenInclude(m => m.Subject).ToListAsync();
 
-            return View(students);
+                //var subjects = await _context.Subjects.Where(s => !s.IsDeleted).ToListAsync();
+                //ViewBag.Subjects = subjects;
+
+                //return View(students);
+            }
         }
         [HttpGet]
-        public ActionResult AddMarks(Guid id)
+        //public ActionResult AddMarks(Guid id)
+        public ActionResult AddMarks()
         {
-            if (id == null || id == Guid.Empty)
+            //if (id == null || id == Guid.Empty)
+            //{
+            //    return BadRequest("Invalid StudentId");
+            //}
+            //var student = _context.Students.Find(id);
+            var student = _context.Students.Where(s => !s.IsDeleted).ToList();
+            if (student == null || !student.Any())
             {
-                return BadRequest("Invalid StudentId");
+                return NotFound("No Student Found");
             }
-            var student = _context.Students.Find(id);
-            if (student == null)
-            {
-                return NotFound();
-            }
-            var subjects = _context.Subjects.Where(s => !s.IsDeleted).ToList();
-            var studentMarks = _context.Marks.Where(m => m.StudentId == id && !m.IsDeleted).ToList();
-            var subjectsWithNoMarks = subjects.Where(s => !studentMarks.Any(m => m.SubjectId == s.Id && m.Mark != null)).ToList();
+            //var subjects = _context.Subjects.Where(s => !s.IsDeleted).ToList();
+            //var studentMarks = _context.Marks.Where(m => m.StudentId == id && !m.IsDeleted).ToList();
+            //var subjectsWithNoMarks = subjects.Where(s => !studentMarks.Any(m => m.SubjectId == s.Id && m.Mark != null)).ToList();
             var model = new MarksViewModel
             {
-                StudentId = id,
-                Subjects = new SelectList(subjectsWithNoMarks, "Id", "SubjectName")
+                //StudentId = id,
+                //Subjects = new SelectList(subjectsWithNoMarks, "Id", "SubjectName")
+                Students = new SelectList(student, "Id", "Name"),
+                Subjects = null
             };
             return View(model);
+        }
+        public async Task<IActionResult> GetSubjectByStudent(Guid studentId)
+        {
+            if (studentId == null || studentId == Guid.Empty)
+            {
+                return BadRequest("Invalid student id");
+            }
+            var student = await _context.Students.FirstOrDefaultAsync(s => s.Id == studentId && !s.IsDeleted);
+            if (student == null)
+            {
+                return NotFound($"Student with ID : {studentId} Not Found");
+            }
+            var subjects = await _context.Subjects.Where(s => !s.IsDeleted).ToListAsync();
+            if (subjects == null)
+            {
+                return NotFound("No subjects found");
+            }
+            var subjectsWithoutMarks = await _context.Subjects
+                .Where(s => !s.IsDeleted &&
+                    !_context.Marks.Any(m => m.SubjectId == s.Id && m.StudentId == studentId && !m.IsDeleted))
+                .ToListAsync();
+            if (subjectsWithoutMarks == null)
+            {
+                return NotFound("Marks already added");
+            }
+
+            return Json(subjectsWithoutMarks);
         }
 
         [HttpPost]
         public async Task<IActionResult> AddMarks(MarksViewModel marksViewModel)
         {
+            var markExist = await _context.Marks.Where(m => m.StudentId == marksViewModel.StudentId && m.SubjectId == marksViewModel.SubjectId).FirstOrDefaultAsync();
+
+            if (markExist != null)
+            {
+                markExist.Mark = marksViewModel.Mark;
+                markExist.IsDeleted = false;
+                _context.Marks.Update(markExist);
+                await _context.SaveChangesAsync();
+                
+                return RedirectToAction("Index", "Marks");
+            }
+
             var marks = new Marks
             {
                 StudentId = marksViewModel.StudentId,
@@ -130,16 +180,16 @@ namespace StudentManagement.Controllers
         [HttpGet]
         public ActionResult AddMarksBySubject(Guid studentId, Guid subjectId)
         {
-            if((studentId == null || studentId == Guid.Empty) || (subjectId == null || subjectId == Guid.Empty))
+            if ((studentId == null || studentId == Guid.Empty) || (subjectId == null || subjectId == Guid.Empty))
             {
                 return BadRequest();
             }
-            var subject = _context.Subjects.Where(s=>s.Id == subjectId).ToList();
+            var subject = _context.Subjects.Where(s => s.Id == subjectId).ToList();
             var mark = new MarksViewModel
             {
                 StudentId = studentId,
                 SubjectId = subjectId,
-                Subjects = new SelectList(subject,"Id", "SubjectName")
+                Subjects = new SelectList(subject, "Id", "SubjectName")
             };
 
             return View(mark);
@@ -154,6 +204,95 @@ namespace StudentManagement.Controllers
                 SubjectId = marksViewModel.SubjectId,
                 Mark = marksViewModel.Mark
             };
+            return RedirectToAction("Index", "Marks");
+        }
+
+        [HttpGet]
+        public ActionResult EditMarksBySubj(Guid SubjectId, Guid StudentId)
+        {
+            if ((StudentId == null || StudentId == Guid.Empty) || (SubjectId == null || SubjectId == Guid.Empty))
+            {
+                return BadRequest();
+            }
+
+            var subject = _context.Subjects.Where(s => s.Id == SubjectId && !s.IsDeleted).FirstOrDefault();
+            if (subject == null)
+            {
+                return NotFound("No Subject Found");
+            }
+            var student = _context.Students.Where(s => s.Id == StudentId && !s.IsDeleted).FirstOrDefault();
+            if (student == null)
+            {
+                return NotFound("Student Not Found");
+            }
+            var mark = _context.Marks.Where(m => m.StudentId == StudentId && m.SubjectId == SubjectId && !m.IsDeleted).FirstOrDefault();
+            var markView = new MarksViewModel
+            {
+                StudentId = student.Id,
+                StudentName = student.Name,
+                SubjectId = subject.Id,
+                SubjectName = subject.SubjectName,
+                Mark = mark.Mark
+            };
+
+            return View(markView);
+        }
+        [HttpPost]
+        public async Task<IActionResult> EditMarksBySubj(MarksViewModel marksViewModel)
+        {
+            var mark = await _context.Marks.Where(m => m.StudentId == marksViewModel.StudentId && m.SubjectId == marksViewModel.SubjectId && !m.IsDeleted).FirstOrDefaultAsync();
+            if (mark == null)
+            {
+                return NotFound($"Marks with Not Found of Student : {marksViewModel.StudentName} for Subject : {marksViewModel.SubjectName}");
+            }
+            mark.Mark = marksViewModel.Mark;
+            _context.Marks.Update(mark);
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index", "Marks");
+        }
+
+        [HttpGet]
+        public ActionResult DeleteMarksBySubj(Guid SubjectId, Guid StudentId)
+        {
+            if ((StudentId == null || StudentId == Guid.Empty) || (SubjectId == null || SubjectId == Guid.Empty))
+            {
+                return BadRequest();
+            }
+
+            var subject = _context.Subjects.Where(s => s.Id == SubjectId && !s.IsDeleted).FirstOrDefault();
+            if (subject == null)
+            {
+                return NotFound("No Subject Found");
+            }
+            var student = _context.Students.Where(s => s.Id == StudentId && !s.IsDeleted).FirstOrDefault();
+            if (student == null)
+            {
+                return NotFound("Student Not Found");
+            }
+            var mark = _context.Marks.Where(m => m.StudentId == StudentId && m.SubjectId == SubjectId && !m.IsDeleted).FirstOrDefault();
+            var markView = new MarksViewModel
+            {
+                StudentId = student.Id,
+                StudentName = student.Name,
+                SubjectId = subject.Id,
+                SubjectName = subject.SubjectName,
+                Mark = mark.Mark
+            };
+
+            return View(markView);
+        }
+
+        [HttpPost, ActionName("DeleteMarksBySubj")]
+        public async Task<IActionResult> ConfimDeleteMarksBySubj(Guid SubjectId, Guid StudentId)
+        {
+            var mark = await _context.Marks.Where(m => m.StudentId == StudentId && m.SubjectId == SubjectId && !m.IsDeleted).FirstOrDefaultAsync();
+            if (mark == null)
+            {
+                return NotFound($"Marks with Not Found of StudentId : {StudentId} for SubjectId : {SubjectId}");
+            }
+            mark.IsDeleted = true;
+            _context.Marks.Update(mark);
+            await _context.SaveChangesAsync();
             return RedirectToAction("Index", "Marks");
         }
     }

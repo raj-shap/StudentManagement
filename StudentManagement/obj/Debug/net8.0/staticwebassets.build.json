@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8Hkgt5ujHeJ7QEn07pF6MdJw7JyxAa0T6igIyhqlIic=",
+  "Hash": "HvirGZLZPxnXr3WSG5oqaSVegC8KUAz2NdWE326AUCc=",
   "Source": "StudentManagement",
   "BasePath": "_content/StudentManagement",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "StudentManagement\\wwwroot",
       "Source": "StudentManagement",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentManagement.styles.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentManagement.styles.css",
       "SourceId": "StudentManagement",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "StudentManagement#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "J8HIlgePW9NlpQzb3tFrnxtS+y0GhZ/fh9sumvG8ORY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentManagement.styles.css"
+      "OriginalItemSpec": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentManagement.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentManagement.bundle.scp.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentManagement.bundle.scp.css",
       "SourceId": "StudentManagement",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "StudentManagement#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "J8HIlgePW9NlpQzb3tFrnxtS+y0GhZ/fh9sumvG8ORY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentManagement.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentManagement.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\css\\site.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\favicon.ico",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "images/abc#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\abc"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc.jpeg",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc.jpeg",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "images/abc#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\images\\abc.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08.jpeg",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08.jpeg",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "images/abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -164,10 +164,31 @@
       "OriginalItemSpec": "wwwroot\\images\\abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b.jpeg",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_0b85296e-aa87-4126-b194-4a457ecb3036.jpg",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "BasePath": "_content/StudentManagement",
+      "RelativePath": "images/abc_0b85296e-aa87-4126-b194-4a457ecb3036#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oub568hyc4",
+      "Integrity": "wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\abc_0b85296e-aa87-4126-b194-4a457ecb3036.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b.jpeg",
+      "SourceId": "StudentManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "images/abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -185,10 +206,52 @@
       "OriginalItemSpec": "wwwroot\\images\\abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.jpeg",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_2409b39d-b302-47d5-a689-dc3b218f4b92.jpeg",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "BasePath": "_content/StudentManagement",
+      "RelativePath": "images/abc_2409b39d-b302-47d5-a689-dc3b218f4b92#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "71s3g2s1l3",
+      "Integrity": "Vfeo3U4Gh8KuYAEEPuvFRmg0EHHUFi0A0BHreSwkTcI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\abc_2409b39d-b302-47d5-a689-dc3b218f4b92.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_5eda233d-d9d0-4d81-a14e-76bdc5125545.jpg",
+      "SourceId": "StudentManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "BasePath": "_content/StudentManagement",
+      "RelativePath": "images/abc_5eda233d-d9d0-4d81-a14e-76bdc5125545#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oub568hyc4",
+      "Integrity": "wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\abc_5eda233d-d9d0-4d81-a14e-76bdc5125545.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.jpeg",
+      "SourceId": "StudentManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "images/abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -206,10 +269,31 @@
       "OriginalItemSpec": "wwwroot\\images\\abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1.jpeg",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_acb891ce-25ae-4552-ba38-54daf7ce31ac.jpg",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "BasePath": "_content/StudentManagement",
+      "RelativePath": "images/abc_acb891ce-25ae-4552-ba38-54daf7ce31ac#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oub568hyc4",
+      "Integrity": "wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\abc_acb891ce-25ae-4552-ba38-54daf7ce31ac.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1.jpeg",
+      "SourceId": "StudentManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "images/abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -227,10 +311,31 @@
       "OriginalItemSpec": "wwwroot\\images\\abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\def.jpeg",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_fc10c59b-608d-4718-a724-91d8371ea4e6.jpg",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "BasePath": "_content/StudentManagement",
+      "RelativePath": "images/abc_fc10c59b-608d-4718-a724-91d8371ea4e6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oub568hyc4",
+      "Integrity": "wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\abc_fc10c59b-608d-4718-a724-91d8371ea4e6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\def.jpeg",
+      "SourceId": "StudentManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "images/def#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -248,10 +353,115 @@
       "OriginalItemSpec": "wwwroot\\images\\def.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_2d6346bc-0001-4525-95c8-c40d31e39b31.jpg",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "BasePath": "_content/StudentManagement",
+      "RelativePath": "images/jkl_2d6346bc-0001-4525-95c8-c40d31e39b31#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x6ipwtz0w8",
+      "Integrity": "WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jkl_2d6346bc-0001-4525-95c8-c40d31e39b31.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_59111ac5-f3e4-456c-b554-cb0c102ce15e.jpg",
+      "SourceId": "StudentManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "BasePath": "_content/StudentManagement",
+      "RelativePath": "images/jkl_59111ac5-f3e4-456c-b554-cb0c102ce15e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x6ipwtz0w8",
+      "Integrity": "WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jkl_59111ac5-f3e4-456c-b554-cb0c102ce15e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_757acb05-2577-4bbd-8896-cabb4878930f.jpg",
+      "SourceId": "StudentManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "BasePath": "_content/StudentManagement",
+      "RelativePath": "images/jkl_757acb05-2577-4bbd-8896-cabb4878930f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x6ipwtz0w8",
+      "Integrity": "WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jkl_757acb05-2577-4bbd-8896-cabb4878930f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_de05b2cc-b5c0-47d6-a709-01f88a834370.jpg",
+      "SourceId": "StudentManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "BasePath": "_content/StudentManagement",
+      "RelativePath": "images/jkl_de05b2cc-b5c0-47d6-a709-01f88a834370#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x6ipwtz0w8",
+      "Integrity": "WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jkl_de05b2cc-b5c0-47d6-a709-01f88a834370.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_e9fe96df-f5b9-4dbf-9cec-93577eb5c46e.jpg",
+      "SourceId": "StudentManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "BasePath": "_content/StudentManagement",
+      "RelativePath": "images/jkl_e9fe96df-f5b9-4dbf-9cec-93577eb5c46e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x6ipwtz0w8",
+      "Integrity": "WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jkl_e9fe96df-f5b9-4dbf-9cec-93577eb5c46e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\js\\site.js",
+      "SourceId": "StudentManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -269,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -311,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -353,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -395,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -836,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -878,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -920,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -962,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1004,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1025,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1046,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1067,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1109,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1151,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1193,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1214,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1277,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1298,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1340,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1403,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1424,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1445,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "StudentManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\",
       "BasePath": "_content/StudentManagement",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1469,7 +1679,7 @@
   "Endpoints": [
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1514,7 +1724,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1551,7 +1761,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1572,7 +1782,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1596,7 +1806,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1617,7 +1827,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1633,7 +1843,7 @@
     },
     {
       "Route": "images/abc",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1670,7 +1880,7 @@
     },
     {
       "Route": "images/abc.71s3g2s1l3",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1715,7 +1925,7 @@
     },
     {
       "Route": "images/abc.71s3g2s1l3.jpeg",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1760,7 +1970,7 @@
     },
     {
       "Route": "images/abc.jpeg",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1797,7 +2007,7 @@
     },
     {
       "Route": "images/abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08.71s3g2s1l3.jpeg",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1818,7 +2028,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:38:09 GMT"
+          "Value": "Thu, 16 Jan 2025 14:38:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1842,7 +2052,7 @@
     },
     {
       "Route": "images/abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08.jpeg",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1863,7 +2073,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:38:09 GMT"
+          "Value": "Thu, 16 Jan 2025 14:38:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1878,8 +2088,90 @@
       ]
     },
     {
+      "Route": "images/abc_0b85296e-aa87-4126-b194-4a457ecb3036.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_0b85296e-aa87-4126-b194-4a457ecb3036.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 07:20:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg="
+        }
+      ]
+    },
+    {
+      "Route": "images/abc_0b85296e-aa87-4126-b194-4a457ecb3036.oub568hyc4.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_0b85296e-aa87-4126-b194-4a457ecb3036.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 07:20:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oub568hyc4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/abc_0b85296e-aa87-4126-b194-4a457ecb3036.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg="
+        }
+      ]
+    },
+    {
       "Route": "images/abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b.71s3g2s1l3.jpeg",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1924,7 +2216,7 @@
     },
     {
       "Route": "images/abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b.jpeg",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1960,8 +2252,8 @@
       ]
     },
     {
-      "Route": "images/abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.71s3g2s1l3.jpeg",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.jpeg",
+      "Route": "images/abc_2409b39d-b302-47d5-a689-dc3b218f4b92.71s3g2s1l3.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_2409b39d-b302-47d5-a689-dc3b218f4b92.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1982,7 +2274,171 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:32:53 GMT"
+          "Value": "Thu, 16 Jan 2025 14:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "71s3g2s1l3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/abc_2409b39d-b302-47d5-a689-dc3b218f4b92.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vfeo3U4Gh8KuYAEEPuvFRmg0EHHUFi0A0BHreSwkTcI="
+        }
+      ]
+    },
+    {
+      "Route": "images/abc_2409b39d-b302-47d5-a689-dc3b218f4b92.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_2409b39d-b302-47d5-a689-dc3b218f4b92.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vfeo3U4Gh8KuYAEEPuvFRmg0EHHUFi0A0BHreSwkTcI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 14:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vfeo3U4Gh8KuYAEEPuvFRmg0EHHUFi0A0BHreSwkTcI="
+        }
+      ]
+    },
+    {
+      "Route": "images/abc_5eda233d-d9d0-4d81-a14e-76bdc5125545.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_5eda233d-d9d0-4d81-a14e-76bdc5125545.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 05:38:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg="
+        }
+      ]
+    },
+    {
+      "Route": "images/abc_5eda233d-d9d0-4d81-a14e-76bdc5125545.oub568hyc4.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_5eda233d-d9d0-4d81-a14e-76bdc5125545.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 05:38:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oub568hyc4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/abc_5eda233d-d9d0-4d81-a14e-76bdc5125545.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg="
+        }
+      ]
+    },
+    {
+      "Route": "images/abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.71s3g2s1l3.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vfeo3U4Gh8KuYAEEPuvFRmg0EHHUFi0A0BHreSwkTcI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 14:32:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2006,7 +2462,7 @@
     },
     {
       "Route": "images/abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.jpeg",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2027,7 +2483,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 14:32:53 GMT"
+          "Value": "Thu, 16 Jan 2025 14:32:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2042,8 +2498,90 @@
       ]
     },
     {
+      "Route": "images/abc_acb891ce-25ae-4552-ba38-54daf7ce31ac.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_acb891ce-25ae-4552-ba38-54daf7ce31ac.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 05:47:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg="
+        }
+      ]
+    },
+    {
+      "Route": "images/abc_acb891ce-25ae-4552-ba38-54daf7ce31ac.oub568hyc4.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_acb891ce-25ae-4552-ba38-54daf7ce31ac.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 05:47:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oub568hyc4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/abc_acb891ce-25ae-4552-ba38-54daf7ce31ac.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg="
+        }
+      ]
+    },
+    {
       "Route": "images/abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1.71s3g2s1l3.jpeg",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2088,7 +2626,7 @@
     },
     {
       "Route": "images/abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1.jpeg",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2124,8 +2662,90 @@
       ]
     },
     {
+      "Route": "images/abc_fc10c59b-608d-4718-a724-91d8371ea4e6.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_fc10c59b-608d-4718-a724-91d8371ea4e6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 09:18:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg="
+        }
+      ]
+    },
+    {
+      "Route": "images/abc_fc10c59b-608d-4718-a724-91d8371ea4e6.oub568hyc4.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_fc10c59b-608d-4718-a724-91d8371ea4e6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 09:18:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oub568hyc4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/abc_fc10c59b-608d-4718-a724-91d8371ea4e6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wL58pnuGZaHudpUd5UAwa6H698ObwtEjcliFgIUWJMg="
+        }
+      ]
+    },
+    {
       "Route": "images/def.71s3g2s1l3.jpeg",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\def.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\def.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2170,7 +2790,7 @@
     },
     {
       "Route": "images/def.jpeg",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\def.jpeg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\def.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2206,8 +2826,418 @@
       ]
     },
     {
+      "Route": "images/jkl_2d6346bc-0001-4525-95c8-c40d31e39b31.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_2d6346bc-0001-4525-95c8-c40d31e39b31.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 05:51:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI="
+        }
+      ]
+    },
+    {
+      "Route": "images/jkl_2d6346bc-0001-4525-95c8-c40d31e39b31.x6ipwtz0w8.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_2d6346bc-0001-4525-95c8-c40d31e39b31.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 05:51:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x6ipwtz0w8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jkl_2d6346bc-0001-4525-95c8-c40d31e39b31.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI="
+        }
+      ]
+    },
+    {
+      "Route": "images/jkl_59111ac5-f3e4-456c-b554-cb0c102ce15e.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_59111ac5-f3e4-456c-b554-cb0c102ce15e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 07:16:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI="
+        }
+      ]
+    },
+    {
+      "Route": "images/jkl_59111ac5-f3e4-456c-b554-cb0c102ce15e.x6ipwtz0w8.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_59111ac5-f3e4-456c-b554-cb0c102ce15e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 07:16:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x6ipwtz0w8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jkl_59111ac5-f3e4-456c-b554-cb0c102ce15e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI="
+        }
+      ]
+    },
+    {
+      "Route": "images/jkl_757acb05-2577-4bbd-8896-cabb4878930f.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_757acb05-2577-4bbd-8896-cabb4878930f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 05:39:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI="
+        }
+      ]
+    },
+    {
+      "Route": "images/jkl_757acb05-2577-4bbd-8896-cabb4878930f.x6ipwtz0w8.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_757acb05-2577-4bbd-8896-cabb4878930f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 05:39:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x6ipwtz0w8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jkl_757acb05-2577-4bbd-8896-cabb4878930f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI="
+        }
+      ]
+    },
+    {
+      "Route": "images/jkl_de05b2cc-b5c0-47d6-a709-01f88a834370.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_de05b2cc-b5c0-47d6-a709-01f88a834370.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 07:15:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI="
+        }
+      ]
+    },
+    {
+      "Route": "images/jkl_de05b2cc-b5c0-47d6-a709-01f88a834370.x6ipwtz0w8.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_de05b2cc-b5c0-47d6-a709-01f88a834370.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 07:15:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x6ipwtz0w8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jkl_de05b2cc-b5c0-47d6-a709-01f88a834370.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI="
+        }
+      ]
+    },
+    {
+      "Route": "images/jkl_e9fe96df-f5b9-4dbf-9cec-93577eb5c46e.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_e9fe96df-f5b9-4dbf-9cec-93577eb5c46e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 09:17:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI="
+        }
+      ]
+    },
+    {
+      "Route": "images/jkl_e9fe96df-f5b9-4dbf-9cec-93577eb5c46e.x6ipwtz0w8.jpg",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_e9fe96df-f5b9-4dbf-9cec-93577eb5c46e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 09:17:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x6ipwtz0w8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jkl_e9fe96df-f5b9-4dbf-9cec-93577eb5c46e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WQyKufObH01vBYtkJpgsFH2dUHAo+mRS79musg3OQXI="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2244,7 +3274,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2289,7 +3319,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2310,7 +3340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2326,7 +3356,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2347,7 +3377,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2371,7 +3401,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2392,7 +3422,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2408,7 +3438,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2429,7 +3459,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2453,7 +3483,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2474,7 +3504,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2490,7 +3520,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2511,7 +3541,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2535,7 +3565,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2556,7 +3586,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2572,7 +3602,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2593,7 +3623,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2617,7 +3647,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2638,7 +3668,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2654,7 +3684,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2675,7 +3705,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2699,7 +3729,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2720,7 +3750,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2736,7 +3766,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2757,7 +3787,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2781,7 +3811,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2802,7 +3832,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2818,7 +3848,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2839,7 +3869,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2863,7 +3893,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2884,7 +3914,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2900,7 +3930,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2921,7 +3951,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2945,7 +3975,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2966,7 +3996,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2990,7 +4020,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3011,7 +4041,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3027,7 +4057,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3048,7 +4078,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3064,7 +4094,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3085,7 +4115,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3109,7 +4139,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3130,7 +4160,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3146,7 +4176,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3167,7 +4197,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3191,7 +4221,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3212,7 +4242,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3228,7 +4258,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3249,7 +4279,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3273,7 +4303,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3294,7 +4324,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3310,7 +4340,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3331,7 +4361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3355,7 +4385,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3376,7 +4406,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3392,7 +4422,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3413,7 +4443,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3429,7 +4459,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3450,7 +4480,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3466,7 +4496,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3487,7 +4517,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3511,7 +4541,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3532,7 +4562,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3556,7 +4586,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3577,7 +4607,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3601,7 +4631,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3622,7 +4652,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3646,7 +4676,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3667,7 +4697,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3683,7 +4713,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3704,7 +4734,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3728,7 +4758,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3749,7 +4779,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3765,7 +4795,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3786,7 +4816,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3802,7 +4832,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3823,7 +4853,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3839,7 +4869,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3860,7 +4890,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3884,7 +4914,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3905,7 +4935,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3929,7 +4959,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3950,7 +4980,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3974,7 +5004,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3995,7 +5025,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4011,7 +5041,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4032,7 +5062,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4056,7 +5086,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4077,7 +5107,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4093,7 +5123,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4114,7 +5144,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4130,7 +5160,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4151,7 +5181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4167,7 +5197,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4188,7 +5218,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4212,7 +5242,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4233,7 +5263,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4257,7 +5287,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4278,7 +5308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4294,7 +5324,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4315,7 +5345,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4339,7 +5369,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4360,7 +5390,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4376,7 +5406,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4397,7 +5427,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4421,7 +5451,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4442,7 +5472,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4458,7 +5488,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4479,7 +5509,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4495,7 +5525,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4516,7 +5546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4540,7 +5570,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4561,7 +5591,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4585,7 +5615,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4606,7 +5636,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4622,7 +5652,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4643,7 +5673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4667,7 +5697,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4688,7 +5718,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4704,7 +5734,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4725,7 +5755,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4741,7 +5771,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4762,7 +5792,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4786,7 +5816,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4807,7 +5837,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4823,7 +5853,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4844,7 +5874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4868,7 +5898,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4889,7 +5919,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4913,7 +5943,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4934,7 +5964,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4950,7 +5980,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4971,7 +6001,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4995,7 +6025,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5016,7 +6046,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5032,7 +6062,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5053,7 +6083,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5077,7 +6107,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5098,7 +6128,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5122,7 +6152,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5143,7 +6173,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5159,7 +6189,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5180,7 +6210,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5204,7 +6234,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5225,7 +6255,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5241,7 +6271,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5262,7 +6292,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5278,7 +6308,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5299,7 +6329,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5323,7 +6353,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5344,7 +6374,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5360,7 +6390,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5381,7 +6411,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5405,7 +6435,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5426,7 +6456,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5442,7 +6472,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5463,7 +6493,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5479,7 +6509,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5500,7 +6530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5524,7 +6554,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5545,7 +6575,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5569,7 +6599,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5590,7 +6620,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5606,7 +6636,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5627,7 +6657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5651,7 +6681,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5672,7 +6702,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5688,7 +6718,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5709,7 +6739,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5725,7 +6755,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5746,7 +6776,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5762,7 +6792,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5783,7 +6813,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5807,7 +6837,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5828,7 +6858,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5852,7 +6882,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5873,7 +6903,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5897,7 +6927,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5918,7 +6948,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5934,7 +6964,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5955,7 +6985,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5979,7 +7009,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6000,7 +7030,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6024,7 +7054,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6045,7 +7075,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6061,7 +7091,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6082,7 +7112,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6106,7 +7136,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6127,7 +7157,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6151,7 +7181,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6172,7 +7202,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6188,7 +7218,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6209,7 +7239,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6225,7 +7255,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6246,7 +7276,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6270,7 +7300,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6291,7 +7321,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6307,7 +7337,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6328,7 +7358,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6352,7 +7382,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6373,7 +7403,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6389,7 +7419,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6410,7 +7440,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6434,7 +7464,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6455,7 +7485,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6471,7 +7501,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6492,7 +7522,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6508,7 +7538,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6529,7 +7559,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6553,7 +7583,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6574,7 +7604,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6590,7 +7620,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6611,7 +7641,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6635,7 +7665,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6656,7 +7686,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6672,7 +7702,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6693,7 +7723,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6717,7 +7747,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6738,7 +7768,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6762,7 +7792,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6783,7 +7813,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6799,7 +7829,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6820,7 +7850,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6844,7 +7874,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6865,7 +7895,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6881,7 +7911,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6902,7 +7932,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6926,7 +7956,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6947,7 +7977,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 10:56:01 GMT"
+          "Value": "Sun, 12 Jan 2025 10:56:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6963,7 +7993,7 @@
     },
     {
       "Route": "StudentManagement.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentManagement.bundle.scp.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentManagement.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6984,7 +8014,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 12:11:05 GMT"
+          "Value": "Sun, 12 Jan 2025 12:11:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7000,7 +8030,7 @@
     },
     {
       "Route": "StudentManagement.j1jrwe9etw.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentManagement.bundle.scp.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentManagement.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7021,7 +8051,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 12:11:05 GMT"
+          "Value": "Sun, 12 Jan 2025 12:11:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7045,7 +8075,7 @@
     },
     {
       "Route": "StudentManagement.j1jrwe9etw.styles.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentManagement.styles.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentManagement.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7066,7 +8096,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 12:11:05 GMT"
+          "Value": "Sun, 12 Jan 2025 12:11:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7090,7 +8120,7 @@
     },
     {
       "Route": "StudentManagement.styles.css",
-      "AssetFile": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentManagement.styles.css",
+      "AssetFile": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentManagement.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7111,7 +8141,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 12:11:05 GMT"
+          "Value": "Sun, 12 Jan 2025 12:11:04 GMT"
         },
         {
           "Name": "Cache-Control",

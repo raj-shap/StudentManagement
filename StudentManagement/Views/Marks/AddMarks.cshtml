@@ -11,28 +11,38 @@
 					<div asp-validation-summary="ModelOnly" class="text-danger"></div>
 					<div class="form-group">
 						<label asp-for="StudentId" class="control-label"></label>
-						<input asp-for="StudentId" class="form-control" />
-						<span asp-validation-for="StudentId" class="text-danger"></span>
+						<select class="form-control" id="Students" asp-for="StudentId" onchange="getSubjectByStudent()" required>
+							<option value="">Select Student</option>
+							@foreach (var student in Model.Students)
+							{
+								<option value="@student.Value">@student.Text</option>
+							}
+						</select>
+						@* <input asp-for="StudentId" class="form-control" />
+						<span asp-validation-for="StudentId" class="text-danger"></span> *@
 					</div>
 					<br />
 					<div class="form-group">
 						<label asp-for="Subjects" class="control-label"></label>
-						<select class="form-control" asp-for="SubjectId">
+						<select class="form-control" id="Subjects" asp-for="SubjectId" required>
 							<option value="">Select Subject</option>
-							@foreach(var subject in Model.Subjects){
-								<option value="@subject.Value">@subject.Text</option>
-							}
+							@* @if(Model.SubjectName != null){
+								@foreach (var subject in Model.Subjects)
+								{
+									<option value="@subject.Value">@subject.Text</option>
+								}
+							} *@
 						</select>
 					</div>
 					<br />
 					<div class="form-group">
 						<label asp-for="Mark" class="control-label"></label>
-						<input type="number" min="0" max="100" asp-for="Mark" class="form-control" />
+						<input type="number" min="0" max="100" asp-for="Mark" class="form-control" required/>
 						<span asp-validation-for="Mark" class="text-danger"></span>
 					</div>
 					<br />
 					<div class="form-group">
-							
+
 						<input type="submit" value="Submit" class="btn btn-primary" />
 						<a asp-action="Index" asp-controller="Marks" class="btn btn-secondary">Back To Marks List</a>
 					</div>
@@ -41,3 +51,26 @@
 		</div>
 	</div>
 </div>
+
+<script>
+	// function getSubjectByStudent(){
+	// 	var studentId = $("#Students").val();
+	// 	$.get(`/Marks/GetSubjectByStudent?studentId=${studentId}`,function (data){
+	// 		$('#Subjects').empty();
+	// 		$('#Subjects').append("<option value=''>Select Subject</option>");
+	// 		$.each(data, function (i,item){
+	// 			$("#Subjects").append(`<option value="${item.id}">${item.subjectName}</option>`);
+	// 		});
+	// 	});
+	// }
+	async function getSubjectByStudent(){
+		const studentId = $("#Students").val();
+		try{
+			const response = await fetch(`/Marks/GetSubjectByStudent?studentId=${studentId`);
+		}
+		catch(error){
+			console.error(`Error while fetching subjects ${error}`);
+		}
+	}
+	
+</script>

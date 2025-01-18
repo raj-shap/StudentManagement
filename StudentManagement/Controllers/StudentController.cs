@@ -9,7 +9,7 @@ namespace StudentManagement.Controllers
     public class StudentController : Controller
     {
         private readonly ApplicationDbContext _context;
-
+        
         public StudentController(ApplicationDbContext context)
         {
             _context = context;
@@ -35,31 +35,33 @@ namespace StudentManagement.Controllers
 
             if(studentViewModel.Photo == null || studentViewModel.Photo.Length == 0)
             {
-                return Content("No File Selected");
+                ViewBag.NofileSelected = "No File Selected";
+                return View();
             }
             var PhotoPath = await ImageInput.ImageInputHelper(studentViewModel.Photo);
             studentViewModel.Path = PhotoPath;
 
+            {
+                //var fileName = Path.GetFileName(studentViewModel.Photo.FileName);
+                //var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", fileName);
 
-            //var fileName = Path.GetFileName(studentViewModel.Photo.FileName);
-            //var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", fileName);
+                //var directoryPath = Path.GetDirectoryName(filePath);
+                //if (!Directory.Exists(directoryPath))
+                //{
+                //    Directory.CreateDirectory(directoryPath);
+                //}
 
-            //var directoryPath = Path.GetDirectoryName(filePath);
-            //if (!Directory.Exists(directoryPath))
-            //{
-            //    Directory.CreateDirectory(directoryPath);
-            //}
-
-            //using (var stream = new FileStream(filePath, FileMode.Create))
-            //{
-            //    await studentViewModel.Photo.CopyToAsync(stream);
-            //}
-            //var allowedExtensions = new[] { ".jpg", ".jpeg", ".png", ".gif" };
-            //var extension = Path.GetExtension(studentViewModel.Photo.FileName).ToLower();
-            //if (!allowedExtensions.Contains(extension))
-            //{
-            //    return Content("Invalid file type. Only image file are allowed");
-            //}
+                //using (var stream = new FileStream(filePath, FileMode.Create))
+                //{
+                //    await studentViewModel.Photo.CopyToAsync(stream);
+                //}
+                //var allowedExtensions = new[] { ".jpg", ".jpeg", ".png", ".gif" };
+                //var extension = Path.GetExtension(studentViewModel.Photo.FileName).ToLower();
+                //if (!allowedExtensions.Contains(extension))
+                //{
+                //    return Content("Invalid file type. Only image file are allowed");
+                //}
+            }
             var student = new Student
             {
                 Name = studentViewModel.Name,
@@ -127,21 +129,19 @@ namespace StudentManagement.Controllers
             }
             if(studentViewModel.Photo == null || studentViewModel.Photo.Length == 0)
             {
-                return Content("No File Selected");
+                ViewBag.NofileSelected = "No File Selected";
+                return View();
             }
             var PhotoPath= await ImageInput.ImageInputHelper(studentViewModel.Photo);
             studentViewModel.Path = PhotoPath;
 
 
-            var student = new Student
-            {
-                Name = studentViewModel.Name,
-                Email = studentViewModel.Email,
-                Standard = studentViewModel.Standard,
-                Address = studentViewModel.Address,
-                Path = studentViewModel.Path
-
-            };
+            var student = await _context.Students.FindAsync(id);
+            student.Name = studentViewModel.Name;
+            student.Email = studentViewModel.Email;
+            student.Standard = studentViewModel.Standard;
+            student.Address = studentViewModel.Address;
+            student.Path = studentViewModel.Path;
             _context.Students.Update(student);
             await _context.SaveChangesAsync();
             return RedirectToAction("Index", "Student");

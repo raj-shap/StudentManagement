@@ -1,275 +1,315 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentManagement.bundle.scp.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentManagement.bundle.scp.css",
       "PackagePath": "staticwebassets\\StudentManagement.j1jrwe9etw.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc",
       "PackagePath": "staticwebassets\\images"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc.jpeg",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc.jpeg",
       "PackagePath": "staticwebassets\\images\\abc.jpeg"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08.jpeg",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08.jpeg",
       "PackagePath": "staticwebassets\\images\\abc_08fd99a0-5a0e-43cd-8bf3-cfef8af30f08.jpeg"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b.jpeg",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_0b85296e-aa87-4126-b194-4a457ecb3036.jpg",
+      "PackagePath": "staticwebassets\\images\\abc_0b85296e-aa87-4126-b194-4a457ecb3036.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b.jpeg",
       "PackagePath": "staticwebassets\\images\\abc_1f5df01f-3cf8-45f2-b025-9b3f7fd6d39b.jpeg"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.jpeg",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_2409b39d-b302-47d5-a689-dc3b218f4b92.jpeg",
+      "PackagePath": "staticwebassets\\images\\abc_2409b39d-b302-47d5-a689-dc3b218f4b92.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_5eda233d-d9d0-4d81-a14e-76bdc5125545.jpg",
+      "PackagePath": "staticwebassets\\images\\abc_5eda233d-d9d0-4d81-a14e-76bdc5125545.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.jpeg",
       "PackagePath": "staticwebassets\\images\\abc_a258ffc0-7cb7-431c-9e1b-fbb610bff2ce.jpeg"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1.jpeg",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_acb891ce-25ae-4552-ba38-54daf7ce31ac.jpg",
+      "PackagePath": "staticwebassets\\images\\abc_acb891ce-25ae-4552-ba38-54daf7ce31ac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1.jpeg",
       "PackagePath": "staticwebassets\\images\\abc_f44e64a7-7293-42c8-8403-5af16ab6f0f1.jpeg"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\images\\def.jpeg",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\abc_fc10c59b-608d-4718-a724-91d8371ea4e6.jpg",
+      "PackagePath": "staticwebassets\\images\\abc_fc10c59b-608d-4718-a724-91d8371ea4e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\def.jpeg",
       "PackagePath": "staticwebassets\\images\\def.jpeg"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_2d6346bc-0001-4525-95c8-c40d31e39b31.jpg",
+      "PackagePath": "staticwebassets\\images\\jkl_2d6346bc-0001-4525-95c8-c40d31e39b31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_59111ac5-f3e4-456c-b554-cb0c102ce15e.jpg",
+      "PackagePath": "staticwebassets\\images\\jkl_59111ac5-f3e4-456c-b554-cb0c102ce15e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_757acb05-2577-4bbd-8896-cabb4878930f.jpg",
+      "PackagePath": "staticwebassets\\images\\jkl_757acb05-2577-4bbd-8896-cabb4878930f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_de05b2cc-b5c0-47d6-a709-01f88a834370.jpg",
+      "PackagePath": "staticwebassets\\images\\jkl_de05b2cc-b5c0-47d6-a709-01f88a834370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\images\\jkl_e9fe96df-f5b9-4dbf-9cec-93577eb5c46e.jpg",
+      "PackagePath": "staticwebassets\\images\\jkl_e9fe96df-f5b9-4dbf-9cec-93577eb5c46e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Yash\\source\\repos\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

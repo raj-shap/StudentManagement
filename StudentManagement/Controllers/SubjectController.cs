@@ -38,8 +38,16 @@ namespace StudentManagement.Controllers
             {
                 return BadRequest();
             }
-            var subjectExist = _context.Subjects.Any(s => s.SubjectName.ToLower() == subject.SubjectName.ToLower().Trim());
-            if (subjectExist)
+            var subjectExist = await _context.Subjects.Where(s => s.SubjectName.ToLower() == subject.SubjectName.ToLower().Trim()).FirstOrDefaultAsync();
+            if (subjectExist.IsDeleted)
+            {
+                subjectExist.IsDeleted = false;
+                _context.Subjects.Update(subjectExist);
+                await _context.SaveChangesAsync();
+                return RedirectToAction("Index", "Subject");
+            }
+            
+            if (subjectExist != null)
             {
                 ViewBag.SubjectExist = "Subject already exist...";
                 return View();
@@ -96,6 +104,7 @@ namespace StudentManagement.Controllers
             var subject = await _context.Subjects.FindAsync(id);
             subject.IsDeleted = true;
             _context.Subjects.Update(subject);
+            await _context.SaveChangesAsync();
             return RedirectToAction("Index","Subject");
         }
     }

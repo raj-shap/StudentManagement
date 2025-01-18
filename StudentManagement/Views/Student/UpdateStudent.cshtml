@@ -1,5 +1,12 @@
 ﻿@model StudentManagement.Models.StudentViewModel
 
+@if (ViewBag.NofileSelected != null)
+{
+	<div class="alert alert-danger" role="alert">
+		@ViewBag.NofileSelected
+	</div>
+}
+
 <div class="card">
 	<div class="card-header">
 		<h3 class="card-title">Update Student</h3>
@@ -48,9 +55,10 @@
 					<br />
 					<div class="form-group">
 						<label asp-for="Photo" class="control-lable"></label>
-						<img src="~/@Model.Path" class="img-thumbnail"  width="150" height="150">
+						<img src="~/@Model.Path" class="img-thumbnail img-fluid" style="max-width:150px;" />
 						<br />
-						<input type="file" name="Photo" id="Photo" class="form-controller" />
+						<br />
+						<input type="file" asp-for="Photo" class="form-controller" />
 						<span asp-validation-for="Photo" class="text-danger"></span>
 					</div>
 					<br />

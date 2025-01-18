@@ -1,7 +1,4 @@
-﻿using StudentManagement.Models;
-using System.Linq;
-
-namespace StudentManagement.Helpers
+﻿namespace StudentManagement.Helpers
 {
     public static class ImageInput
     {
@@ -11,7 +8,12 @@ namespace StudentManagement.Helpers
             {
                 throw new ArgumentException("No File Selected");
             }
-            var allowedExtensions = new[] { ".jpg", ".jpeg", ".png", ".gif" };
+            var size = photo.Length;
+            if(size > 2000000)
+            {
+                throw new Exception("image must be less than 2 mb."); 
+            }
+            var allowedExtensions = new[] { ".jpg", ".jpeg", ".png" };
             var extension = Path.GetExtension(photo.FileName).ToLower();
             if (!allowedExtensions.Contains(extension))
             {
