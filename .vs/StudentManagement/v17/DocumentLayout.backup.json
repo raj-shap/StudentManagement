@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\StudentManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{052D7C54-3F4A-4388-9F69-448CB08F15F2}|StudentManagement\\StudentManagement.csproj|c:\\users\\hp\\documents\\studentmanagement\\studentmanagement\\controllers\\markscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{052D7C54-3F4A-4388-9F69-448CB08F15F2}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\markscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{052D7C54-3F4A-4388-9F69-448CB08F15F2}|StudentManagement\\StudentManagement.csproj|c:\\users\\hp\\documents\\studentmanagement\\studentmanagement\\views\\marks\\addmarks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{052D7C54-3F4A-4388-9F69-448CB08F15F2}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\marks\\addmarks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052D7C54-3F4A-4388-9F69-448CB08F15F2}|StudentManagement\\StudentManagement.csproj|c:\\users\\hp\\documents\\studentmanagement\\studentmanagement\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{052D7C54-3F4A-4388-9F69-448CB08F15F2}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052D7C54-3F4A-4388-9F69-448CB08F15F2}|StudentManagement\\StudentManagement.csproj|c:\\users\\hp\\documents\\studentmanagement\\studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052D7C54-3F4A-4388-9F69-448CB08F15F2}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052D7C54-3F4A-4388-9F69-448CB08F15F2}|StudentManagement\\StudentManagement.csproj|c:\\users\\hp\\documents\\studentmanagement\\studentmanagement\\controllers\\markscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052D7C54-3F4A-4388-9F69-448CB08F15F2}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\markscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{052D7C54-3F4A-4388-9F69-448CB08F15F2}|StudentManagement\\StudentManagement.csproj|c:\\users\\hp\\documents\\studentmanagement\\studentmanagement\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,11 +54,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T17:54:16.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:35:06.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Index.cshtml",
@@ -62,33 +95,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AddMarks.cshtml",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Views\\Marks\\AddMarks.cshtml",
               "RelativeDocumentMoniker": "StudentManagement\\Views\\Marks\\AddMarks.cshtml",
               "ToolTip": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Views\\Marks\\AddMarks.cshtml",
               "RelativeToolTip": "StudentManagement\\Views\\Marks\\AddMarks.cshtml",
-              "ViewState": "AgIAADEAAAAAAAAAAAAUwDcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwEgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-17T14:50:23.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MarksController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Controllers\\MarksController.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Controllers\\MarksController.cs",
               "ToolTip": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Controllers\\MarksController.cs",
               "RelativeToolTip": "StudentManagement\\Controllers\\MarksController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAuwFcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T12:08:36.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T12:08:36.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EditMarksBySubj.cshtml",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Views\\Marks\\EditMarksBySubj.cshtml",
               "RelativeDocumentMoniker": "StudentManagement\\Views\\Marks\\EditMarksBySubj.cshtml",
@@ -100,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Views\\Marks\\Index.cshtml",
               "RelativeDocumentMoniker": "StudentManagement\\Views\\Marks\\Index.cshtml",
@@ -112,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Context\\ApplicationDbContext.cs",
@@ -124,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MarksViewModel.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Models\\MarksViewModel.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Models\\MarksViewModel.cs",
@@ -136,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DeleteMarksBySubj.cshtml",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Views\\Marks\\DeleteMarksBySubj.cshtml",
               "RelativeDocumentMoniker": "StudentManagement\\Views\\Marks\\DeleteMarksBySubj.cshtml",
@@ -148,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "20250117115537_StoredProcedure.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\StudentManagement\\StudentManagement\\Migrations\\20250117115537_StoredProcedure.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Migrations\\20250117115537_StoredProcedure.cs",

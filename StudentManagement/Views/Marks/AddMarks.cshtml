@@ -37,7 +37,7 @@
 					<br />
 					<div class="form-group">
 						<label asp-for="Mark" class="control-label"></label>
-						<input type="number" min="0" max="100" asp-for="Mark" class="form-control" required/>
+						<input type="number" min="0" max="100" asp-for="Mark" class="form-control" required />
 						<span asp-validation-for="Mark" class="text-danger"></span>
 					</div>
 					<br />
@@ -66,11 +66,17 @@
 	async function getSubjectByStudent(){
 		const studentId = $("#Students").val();
 		try{
-			const response = await fetch(`/Marks/GetSubjectByStudent?studentId=${studentId`);
+			const response = await fetch(`/Marks/GetSubjectByStudent?studentId=${studentId}`);
+			const data = await response.json();
+			$('#Subjects').empty();
+			$('#Subjects').append("<option value=''>Select Subject</option>");
+			data.forEach(item =>{
+				$('#Subjects').append(`<option value="${item.id}">${item.subjectName}</option>`)
+			});
 		}
 		catch(error){
 			console.error(`Error while fetching subjects ${error}`);
 		}
 	}
-	
+
 </script>
